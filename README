@@ -1,0 +1,9 @@
+A biblioteca escolhida foi a Numpy, ela é utilizada em áreas como ciência de dados ou estatística. É preciso realizar uma instalação para utilizar ela.
+
+Em meu computador utilizo o Jupyter para programar em python, para utilizar o numpy realizam-se os seguintes passos:
+
+No Anaconda Prompt, inserimos o comando pip install numpy para realizar a instalação
+
+Para importá-lo no Jupyter, escrevemos import numpy as np(abreviação)
+
+Em meu programa, resolvi criar uma calculadora estatística, que realiza as operações de acordo com um array criado através de dados inseridos no início do código. As operações podem ser escolhidas pelo usuário, sendo elas: média, mediana e variância.
